@@ -4,7 +4,7 @@ This is a simple C++ project that implements an autocomplete feature using the T
 
 ## Files
 
-- `AutoCompleteTrie.cpp`: Main source code
+- `autocompletetrie.cpp`: Main source code
 - `input_sample.txt`: Sample input
 - `output_sample.txt`: Sample output
 - `README.md`: Project description
@@ -12,7 +12,7 @@ This is a simple C++ project that implements an autocomplete feature using the T
 ## How to Run
 
 1. Compile the program:
-g++ AutoCompleteTrie.cpp -o trie
+g++ autocompletetrie.cpp -o trie
 
 markdown
 Copy
@@ -58,7 +58,6 @@ Edit
 
 - Input should be in lowercase.
 - The program prints all words in the Trie that begin with the given prefix.
-
 ## Author
 
 Sree Yagna Veena
